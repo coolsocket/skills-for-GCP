@@ -1,0 +1,21 @@
+# Security: Block all JSON keys
+*.json
+!pylintrc
+!package.json
+!tsconfig.json
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.DS_Store

@@ -1,0 +1,20 @@
+{
+  "Google Cloud": "Google Cloud",
+  "Security Command Center": "Security Command Center",
+  "SCC": "SCC",
+  "Model Armor": "Model Armor",
+  "Gemini": "Gemini",
+  "Vertex AI": "Vertex AI",
+  "Agent Builder": "Agent Builder",
+  "Agent Engine": "Agent Engine",
+  "Mandiant": "Mandiant",
+  "Compliance Manager": "Compliance Manager",
+  "GDPR": "GDPR",
+  "PCI DSS": "PCI DSS",
+  "ISO 27001": "ISO 27001",
+  "Cloud SQL": "Cloud SQL",
+  "Cloud Storage": "Cloud Storage",
+  "BigQuery": "BigQuery",
+  "GKE": "GKE",
+  "Cloud Run": "Cloud Run"
+}
